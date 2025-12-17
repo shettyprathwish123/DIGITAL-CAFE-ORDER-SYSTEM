@@ -118,7 +118,3 @@ The Digital Cafe Order Management System is a full-stack web application designe
 ## About
 
 This project was developed to demonstrate full-stack development skills, including real-time features, responsive design, and secure authentication. It is optimized for both desktop and mobile devices and is suitable for small cafes or as a learning project.
-
-## License
-
-MIT License - Feel free to use this project for learning and development.
